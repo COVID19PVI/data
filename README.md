@@ -20,5 +20,5 @@ Daily PVI models
 
 ## Terms of Use
 
-These data are provided to the public and.....<MIT license?>.
+These data are provided under the GNU General Public License v3.0. Please see specific details for all data sources linked in our [Documentation of Data Sources and Rationale](https://toxpi.org/covid-19/).
 
