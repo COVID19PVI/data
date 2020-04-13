@@ -4,7 +4,7 @@ This is the data repository for the [COVID-19 Pandemic Vulnerability Index (PVI)
 
 ## Documentation of Data Sources and Rationale
 
-The current PVI model documentation, including data sources and rationale for their inclusion, is available as a `PDF`.
+The current PVI model documentation, including data sources and rationale for their inclusion, is available as a [PDF](https://toxpi.org/covid-19/).
 
 ## Data
 
