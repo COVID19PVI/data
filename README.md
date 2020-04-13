@@ -8,9 +8,7 @@ The current PVI model documentation, including data sources and rationale for th
 
 ## Data
 
-Daily PVI models
-
-(dir per Model.......
+The series of all daily PVI model files are posted in folders according to `<model identifier>`. PVI model formulation (reapportionment of weights or incorporation of new source data) will change as new research advances our understanding of factors associated with vulnerability. Models will be enumerated sequentially, so the highest-numbered model will always be the our current/working version.
 
 > **Results** files can be uploaded into the Dashboard. **Results** files are named as:</n>
 >  `<model identifier>_results_<date>.csv`.
