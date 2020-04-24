@@ -14,7 +14,7 @@ The series of all daily PVI model files are posted in folders according to `<mod
 >  `<model-identifier>_results_<date>.csv`.
 >  
 > **Data** files contain "raw" data prior to transformation into PVI using the [ToxPi  GUI](https://toxpi.org/). **Data** files can be manipulated using the [ToxPi  GUI](https://toxpi.org/) to generate new **Results** files for upload into the Dashboard. **Data** files are named as:</n>
->  `<model identifier>_results_<date>.csv`.
+>  `<model identifier>_data_<date>.csv`.
 
 ## Terms of Use
 
