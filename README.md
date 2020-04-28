@@ -1,6 +1,6 @@
 # COVID-19 Pandemic Vulnerability Index (PVI) Dashboard
 
-This is the data repository for the [COVID-19 Pandemic Vulnerability Index (PVI) Dashboard](https://toxpi.org/covid-19/map/).  
+This is the data repository for the [COVID-19 Pandemic Vulnerability Index (PVI) Dashboard](https://covid19pvi.niehs.nih.gov/).  
 ## Quick Start Guide
 
 The [Quick Start](https://toxpi.org/covid-19/) guide provides an overview of using the Dashboard.
