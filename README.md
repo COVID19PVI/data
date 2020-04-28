@@ -25,5 +25,5 @@ The series of all daily PVI model files are posted in folders according to `<mod
 
 ## Terms of Use
 
-These data are provided under the GNU General Public License v3.0. Please see specific details for all data sources linked in our [Documentation of Data Sources and Rationale](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/details/).
+These data are provided under the GNU General Public License v3.0. Please see specific details for all data sources linked in our [Details](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/details/).
 
