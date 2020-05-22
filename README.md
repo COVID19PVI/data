@@ -13,10 +13,10 @@ The current PVI model documentation, including data sources and performance eval
 
 The series of all daily PVI model files are posted in folders according to `<model-identifier>`. PVI model formulation (e.g. reapportionment of weights or incorporation of new source data) will change as new research advances our understanding of factors associated with vulnerability. [Model10.5](https://github.com/COVID19PVI/data/tree/master/Model10.5) is the current PVI model displayed in the Dashboard.
 
-> **Results** files can be uploaded into the Dashboard. **Results** files are named as:</n>
+> **Results** files can be uploaded into the Dashboard. **Results** files are named as:</br>
 >  `<model-identifier>_results_<date>.csv`.
 >  
-> **Data** files contain "raw" data prior to transformation into PVI using the [ToxPi  GUI](https://toxpi.org/). **Data** files can be manipulated using the [ToxPi  GUI](https://toxpi.org/) to generate new **Results** files for upload into the Dashboard. **Data** files are named as:</n>
+> **Data** files contain "raw" data prior to transformation into PVI using the [ToxPi  GUI](https://toxpi.org/). **Data** files can be manipulated using the [ToxPi  GUI](https://toxpi.org/) to generate new **Results** files for upload into the Dashboard. **Data** files are named as:</br>
 >  `<model identifier>_data_<date>.csv`.
 
 ## Citation
