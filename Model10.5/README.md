@@ -1,3 +1,3 @@
-Model10.5 data and results (20200307 - current)
+Model10.5 data and results (20200307 - 20200717)
 
-This is the current model displayed in the Dashboard
+This was the model displayed in the Dashboard until the update to Model11.2 (current)
