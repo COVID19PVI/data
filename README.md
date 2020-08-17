@@ -21,7 +21,7 @@ The series of all daily PVI model files are posted in folders according to `<mod
 
 ## Citation
 
-*(Manuscript in review)*
+https://doi.org/10.1101/2020.08.10.20169649
 
 ## Terms of Use
 
