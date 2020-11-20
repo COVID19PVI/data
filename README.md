@@ -1,6 +1,6 @@
 # COVID-19 Pandemic Vulnerability Index (PVI) Dashboard
 
-This is the data repository for the [COVID-19 Pandemic Vulnerability Index (PVI) Dashboard](https://covid19pvi.niehs.nih.gov/).  
+This is the public repository for the [COVID-19 Pandemic Vulnerability Index (PVI) Dashboard](https://covid19pvi.niehs.nih.gov/).  
 ## Quick Start Guide
 
 The [Quick Start](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/) guide provides an overview of using the Dashboard.
