@@ -21,7 +21,7 @@ The series of all daily PVI model files are posted in folders according to `<mod
 
 ## Methods
 
-Details of statistical methods are maintained in [Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf).
+Details of statistical methods are maintained in [Supplemental Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf).
 
 ## Citation
 
