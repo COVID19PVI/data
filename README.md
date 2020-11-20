@@ -19,6 +19,10 @@ The series of all daily PVI model files are posted in folders according to `<mod
 > **Data** files contain "raw" data prior to transformation into PVI using the [ToxPi  GUI](https://toxpi.org/). **Data** files can be manipulated using the [ToxPi  GUI](https://toxpi.org/) to generate new **Results** files for upload into the Dashboard. **Data** files are named as:</br>
 >  `<model identifier>_data_<date>.csv`.
 
+## Methods
+
+Details of statistical methods are maintained in [Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf).
+
 ## Citation
 
 https://doi.org/10.1101/2020.08.10.20169649
