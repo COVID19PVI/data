@@ -25,7 +25,7 @@ Details of statistical methods are maintained in [Supplemental Methods](https://
 
 ## Outreach & Education
 
-A set of High School lesson plans, "Examining Risk Factors Associated With COVID-19 Using the Pandemic Vulnerability Index", has been developed by NIEHS [COVID-19 PVI Lesson Plans](https://www.niehs.nih.gov/health/scied/teachers/covid-19/index.cfm).
+A set of [COVID-19 PVI Lesson Plans](https://www.niehs.nih.gov/health/scied/teachers/covid-19/index.cfm), "Examining Risk Factors Associated With COVID-19 Using the Pandemic Vulnerability Index", has been developed by NIEHS for High School educators and students.
 
 ## Additional Resources
 
