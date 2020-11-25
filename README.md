@@ -29,7 +29,7 @@ A set of High School lesson plans, "Examining Risk Factors Associated With COVID
 
 ## Additional Resources
 
-The COVID-19 Pandemic Vulnerability Index (PVI) Dashboard is mirrored as a 'Unique Populations' resource as part of the [CDC COVID Data Tracker] (https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index)
+The COVID-19 Pandemic Vulnerability Index (PVI) Dashboard is mirrored as a 'Unique Populations' resource as part of the CDC COVID Data Tracker [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index)
 
 ## Citation
 
