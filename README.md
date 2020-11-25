@@ -23,6 +23,10 @@ The series of all daily PVI model files are posted in folders according to `<mod
 
 Details of statistical methods are maintained in [Supplemental Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf).
 
+## Outreach & Education
+
+A set of High School lesson plans, "Examining Risk Factors Associated With COVID-19 Using the Pandemic Vulnerability Index" has been developed by NIEHS [COVID-19 PVI Lesson Plans](https://www.niehs.nih.gov/health/scied/teachers/covid-19/index.cfm).
+
 ## Citation
 
 https://doi.org/10.1101/2020.08.10.20169649
