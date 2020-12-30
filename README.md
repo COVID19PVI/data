@@ -33,7 +33,9 @@ The COVID-19 Pandemic Vulnerability Index (PVI) Dashboard is mirrored as a [Uniq
 
 ## Citation
 
-https://doi.org/10.1101/2020.08.10.20169649
+https://doi.org/10.1289/EHP8690 [accepted/in-press at *EHP*]
+
+https://doi.org/10.1101/2020.08.10.20169649 [*medRxiv* pre-print]
 
 ## Terms of Use
 
