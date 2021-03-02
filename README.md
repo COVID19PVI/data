@@ -29,7 +29,7 @@ A set of [COVID-19 PVI Lesson Plans](https://www.niehs.nih.gov/health/scied/teac
 
 ## Additional Resources
 
-The COVID-19 Pandemic Vulnerability Index (PVI) Dashboard is mirrored as a [Unique Populations](https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index) resource as part of the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker)
+The COVID-19 Pandemic Vulnerability Index (PVI) Dashboard is mirrored as a [Your Community](https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index) resource as part of the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker)
 
 ## Citation
 
