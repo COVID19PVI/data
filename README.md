@@ -23,7 +23,7 @@ There is now a new model, [Model12.4](https://github.com/COVID19PVI/data/tree/ma
 
 ## Methods
 
-Details of statistical methods are maintained in [Supplemental Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf). Descriptions of data columns for [Model11.2.1](https://github.com/COVID19PVI/data/tree/master/Model11.2.1) and [Model12.4](https://github.com/COVID19PVI/data/tree/master/Model12.4) are provided in [PVI Codebook](https://github.com/COVID19PVI/data/blob/master/PVI_codebook.docx)
+Details of statistical methods are maintained in [Supplemental Methods](https://github.com/COVID19PVI/data/blob/master/COVID19PVI%20Supplemental%20Github.pdf). Descriptions of data columns for [Model11.2.1](https://github.com/COVID19PVI/data/tree/master/Model11.2.1) and [Model12.4](https://github.com/COVID19PVI/data/tree/master/Model12.4) are provided in [PVI Codebook](https://github.com/COVID19PVI/data/blob/master/PVI_codebook.docx).
 
 ## Outreach & Education
 
