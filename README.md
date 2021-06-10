@@ -11,7 +11,9 @@ The current PVI model documentation, including data sources and performance eval
 
 ## Data
 
-The series of all daily PVI model files are posted in folders according to `<model-identifier>`. PVI model formulation (e.g. reapportionment of weights or incorporation of new source data) will change as new research advances our understanding of factors associated with vulnerability. [Model11.2.1](https://github.com/COVID19PVI/data/tree/master/Model11.2.1) is the current PVI model displayed in the Dashboard.
+The series of all daily PVI model files are posted in folders according to `<model-identifier>`. PVI model formulation (e.g. reapportionment of weights or incorporation of new source data) will change as new research advances our understanding of factors associated with vulnerability. [Model11.2.1](https://github.com/COVID19PVI/data/tree/master/Model11.2.1) is the PVI model displayed in the Dashboard upon loading that is selectable via the **PVI Model** button. It is built from data extending back to March 2020 and updated daily from data streams described at [Details](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/details/). 
+
+There is now a new model, [Model12.4](https://github.com/COVID19PVI/data/tree/master/Model12.4), that is selectable in the Dashboard via the **PVI with Vaccine Model** button. This new model is built from data available since January 2021 and updated daily from data streams described at [Details](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/details/).
 
 > **Results** files can be uploaded into the Dashboard. **Results** files are named as:</br>
 >  `<model-identifier>_results_<date>.csv`.
